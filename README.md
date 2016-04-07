@@ -1,6 +1,8 @@
 # F13CMS
 An advanced CMS aimed at developers to allow complete freedom with pages being coded manually.
 
+## Please note, this project is currently far from production
+
 ## Development plans
 * Build a bare bones CMS using a simple templating system
 * Web pages are created from the template system and requireing a PHP file from within a specific directory
